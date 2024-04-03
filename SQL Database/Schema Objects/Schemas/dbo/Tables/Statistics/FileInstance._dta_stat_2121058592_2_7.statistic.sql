@@ -1,0 +1,1 @@
+﻿CREATE STATISTICS [_dta_stat_2121058592_2_7] ON [dbo].[FileInstance]([ContentsID], [ClientID])
